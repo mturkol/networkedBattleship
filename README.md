@@ -36,7 +36,6 @@ Make sure you have the `ncurses` library installed. Below are the installation i
   1.  You need to install the following two packages:
   
       `libncurses5-dev` : Developer’s libraries for ncurses
-      
       `libncursesw5-dev` : Developer’s libraries for ncursesw
   2.  Open the Terminal application.
   3.  Type the following `apt-get` command to install `ncurses` header and libs:
@@ -47,6 +46,7 @@ Make sure you have the `ncurses` library installed. Below are the installation i
 #### Installing the ncurses library in CentOS/RHEL/Scientific Linux 6.x/7.x+ and Fedora Linux 21 or older
 
   1.  You need to install the following package:
+  
       `ncurses-devel` : Developer’s libraries for ncurses
   2.  Open the Terminal application.
   3.  Type the following `yum` command to install `ncurses` header and libs:
@@ -57,6 +57,7 @@ Make sure you have the `ncurses` library installed. Below are the installation i
 #### Installing the ncurses library in Fedora Linux 22.x+
 
   1.  You need to install the following package:
+  
       `ncurses-devel` : Developer’s libraries for ncurses
   2.  Open the Terminal application.
   3.  Type the following `dnf` command to install `ncurses` header and libs:
