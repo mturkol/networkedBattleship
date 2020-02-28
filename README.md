@@ -1,7 +1,6 @@
 # Networked BattleShip Game
 
-> lpsd - a program to calculate spectral estimates by Michael Troebs  and
-> Gerhard Heinzel, (c) 2003, 2004
+> networkedBattleship - a BattleShip game written in C++
 
 This repository provides the implementation of a turn-based Networked BattleShip 
 game using socket programming principles. The game can be played either between 
