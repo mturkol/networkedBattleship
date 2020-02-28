@@ -20,8 +20,6 @@ offered at the University of Michigan.
     * [Compilation](#compilation)
 * [Usage](#usage)
 * [Documentation](#documentation)
-    * [Theoretical Background](#theoretical-background)
-    * [File Overview](#file-overview)
 
 <!-- vim-markdown-toc -->
 
@@ -84,12 +82,11 @@ An executable named `networkedBattleship.exe` will be produced under the same di
 $ ./networkedBattleship.exe
 ```
 
-Upon execution, the interactive game menu will appear and provide the options 
-to host/join a game against a human opponent or to play against the computer AI.   
+Upon execution, the interactive game menu will appear and present the options 
+to host/join a game against a remote human opponent or to play against the computer AI.   
 
 ## Documentation
 
-### Theoretical Background
-
-For a more theoretical understanding read the following publication:
+For a presentation describing the project and the algorithm flow, please see the following::
+  * [Networked Battleship Game Presentation](https://github.com/mturkol/networkedBattleship/doc/Networked_Battleship_Game_Presentation.pdf)
   
