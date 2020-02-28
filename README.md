@@ -74,13 +74,13 @@ An executable named `networkedBattleship.exe` will be produced under the same di
 
 ## Usage
 
-`networkedBattleship` can be called by the command line: 
+`networkedBattleship` can be called from the command line: 
 
 ```
 $ ./networkedBattleship.exe
 ```
 
-Upon execution, the interactive game menu will apear and provide the options 
+Upon execution, the interactive game menu will appear and provide the options 
 to host/join a game against a human opponent or to play against the computer AI.   
 
 ## Documentation
