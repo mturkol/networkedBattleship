@@ -1,6 +1,6 @@
 # Networked BattleShip Game
 
-> networkedBattleship - a BattleShip game written in C++
+> [networkedBattleship](doc/Networked_Battleship_Game_Presentation.pdf) - a BattleShip game written in C++
 
 This repository provides the implementation of a turn-based Networked BattleShip 
 game using socket programming principles. The game can be played either between 
@@ -87,6 +87,6 @@ to host/join a game against a remote human opponent or to play against the compu
 
 ## Documentation
 
-For a presentation describing the project and the algorithm flow, please see the following::
-  * [Networked Battleship Game Presentation](https://github.com/mturkol/networkedBattleship/doc/Networked_Battleship_Game_Presentation.pdf)
+For a presentation describing the project and the algorithm flow, please see the following:
+  * [Networked Battleship Game Presentation](doc/Networked_Battleship_Game_Presentation.pdf)
   
