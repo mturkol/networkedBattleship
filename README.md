@@ -34,7 +34,9 @@ Make sure you have the `ncurses` library installed. Below are the installation i
 #### Installing the ncurses library in Debian/Ubuntu Linux
 
   1.  You need to install the following two packages:
+  
       `libncurses5-dev` : Developer’s libraries for ncurses
+      
       `libncursesw5-dev` : Developer’s libraries for ncursesw
   2.  Open the Terminal application.
   3.  Type the following `apt-get` command to install `ncurses` header and libs:
