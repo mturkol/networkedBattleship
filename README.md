@@ -15,15 +15,20 @@ offered at the University of Michigan.
 
 <!-- vim-markdown-toc GFM -->
 
-* [Install](#install)
+* [Documentation](#documentation)
+* [Installation](#installation)
     * [Requirements](#requirements)
     * [Compilation](#compilation)
 * [Usage](#usage)
-* [Documentation](#documentation)
 
 <!-- vim-markdown-toc -->
 
-## Install
+## Documentation
+
+For a presentation describing the project and the algorithm flow, please see the following:
+  * [Networked Battleship Game Presentation](doc/Networked_Battleship_Game_Presentation.pdf)
+
+## Installation
 
 ### Requirements
 
@@ -84,9 +89,4 @@ $ ./networkedBattleship.exe
 
 Upon execution, the interactive game menu will appear and present the options 
 to host/join a game against a remote human opponent or to play against the computer AI.   
-
-## Documentation
-
-For a presentation describing the project and the algorithm flow, please see the following:
-  * [Networked Battleship Game Presentation](doc/Networked_Battleship_Game_Presentation.pdf)
   
