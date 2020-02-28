@@ -11,7 +11,7 @@ It is written in C++ by Mert Türkol, Roberto Shu and Alexander Vaughn as part
 of a coursework project in EECS402: Computer Programming For Scientists and Engineers,
 offered at the University of Michigan.
 
-![Screenshot](ss1.png)
+![Screenshot](doc/ss1.png)
 
 ## Table of Contents
 
